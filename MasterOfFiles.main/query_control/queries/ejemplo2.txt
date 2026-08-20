@@ -1,0 +1,2 @@
+CREATE arch1:BASE
+END
